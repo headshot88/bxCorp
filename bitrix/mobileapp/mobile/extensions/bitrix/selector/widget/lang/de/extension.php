@@ -1,0 +1,22 @@
+<?php
+$MESS["PROVIDER_SEARCH_CREATE_PLACEHOLDER"] = "Finden oder erstellen";
+$MESS["PROVIDER_WIDGET_CREATE_ITEM"] = "Element erstellen";
+$MESS["PROVIDER_WIDGET_CREATING_ITEM"] = "Element wird erstellt";
+$MESS["PROVIDER_WIDGET_DONE"] = "Fertig";
+$MESS["PROVIDER_WIDGET_START_TYPING_TO_SEARCH"] = "Geben Sie Element ein, um es zu finden";
+$MESS["SELECTOR_COMPONENT_CREATE_CONTRACTOR"] = "Anbieter erstellen";
+$MESS["SELECTOR_COMPONENT_CREATE_PRODUCT"] = "Produkt erstellen";
+$MESS["SELECTOR_COMPONENT_CREATE_SECTION"] = "Bereich erstellen";
+$MESS["SELECTOR_COMPONENT_CREATE_STORE"] = "Lager erstellen";
+$MESS["SELECTOR_COMPONENT_CREATING_CONTRACTOR"] = "Anbieter wird erstellt";
+$MESS["SELECTOR_COMPONENT_CREATING_PRODUCT"] = "Produkt wird erstellt";
+$MESS["SELECTOR_COMPONENT_CREATING_SECTION"] = "Bereich wird erstellt";
+$MESS["SELECTOR_COMPONENT_CREATING_STORE"] = "Lager wird erstellt";
+$MESS["SELECTOR_COMPONENT_PICK_CONTRACTOR"] = "Anbieter auswählen";
+$MESS["SELECTOR_COMPONENT_PICK_PRODUCT"] = "Produkt auswählen";
+$MESS["SELECTOR_COMPONENT_PICK_SECTION"] = "Bereich auswählen";
+$MESS["SELECTOR_COMPONENT_PICK_STORE"] = "Lager auswählen";
+$MESS["SELECTOR_COMPONENT_START_TYPING_TO_SEARCH_CONTRACTOR"] = "Geben Sie Anbieter ein, um ihn zu finden";
+$MESS["SELECTOR_COMPONENT_START_TYPING_TO_SEARCH_PRODUCT"] = "Geben Sie Produkt ein, um es zu finden";
+$MESS["SELECTOR_COMPONENT_START_TYPING_TO_SEARCH_SECTION"] = "Geben Sie Bereich ein, um ihn zu finden";
+$MESS["SELECTOR_COMPONENT_START_TYPING_TO_SEARCH_STORE"] = "Geben Sie Lager ein, um es zu finden";

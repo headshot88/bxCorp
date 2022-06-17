@@ -1,0 +1,5 @@
+<?php
+$MESS["SELECTOR_COMPONENT_PICK_CONTRACTOR"] = "Anbieter auswählen";
+$MESS["SELECTOR_COMPONENT_PICK_PRODUCT"] = "Produkt auswählen";
+$MESS["SELECTOR_COMPONENT_PICK_SECTION"] = "Bereich auswählen";
+$MESS["SELECTOR_COMPONENT_PICK_STORE"] = "Lager auswählen";

@@ -1,0 +1,4 @@
+<?php
+$MESS["TASKS_SCRUM_TEAM_SPEED_CHART_DONE_COLUMN"] = "Виконано";
+$MESS["TASKS_SCRUM_TEAM_SPEED_CHART_PLAN_COLUMN"] = "Заплановано";
+$MESS["TASKS_SCRUM_TEAM_SPEED_CHART_TITLE"] = "Діаграма швидкості команди";
