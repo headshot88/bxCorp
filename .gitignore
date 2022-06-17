@@ -1,0 +1,12 @@
+/.idea
+/bitrix
+/upload
+*.log
+*log.txt
+*.tar.gz
+*.xml
+.gitconfig
+.bash_history
+/composer.phar
+robots.txt
+robots.txt.php
