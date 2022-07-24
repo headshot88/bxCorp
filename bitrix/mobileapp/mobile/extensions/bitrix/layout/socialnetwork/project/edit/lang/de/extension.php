@@ -1,0 +1,6 @@
+<?php
+$MESS["MOBILE_LAYOUT_PROJECT_EDIT_CANCEL"] = "Abbrechen";
+$MESS["MOBILE_LAYOUT_PROJECT_EDIT_ERROR_AVATAR_IS_UPLOADING"] = "Projekticon wird immer noch hochgeladen";
+$MESS["MOBILE_LAYOUT_PROJECT_EDIT_ERROR_NO_TITLE"] = "Projektname ist nicht angegeben";
+$MESS["MOBILE_LAYOUT_PROJECT_EDIT_HEADER_TITLE"] = "Projekt bearbeiten";
+$MESS["MOBILE_LAYOUT_PROJECT_EDIT_SAVE"] = "Speichern";

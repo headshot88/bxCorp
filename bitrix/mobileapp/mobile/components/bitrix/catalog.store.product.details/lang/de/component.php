@@ -1,0 +1,21 @@
+<?php
+$MESS["CSPD_ADD_SKU_OR_SERIAL_NUMBER"] = "Produktvariante oder S/N hinzufügen";
+$MESS["CSPD_CLOSE"] = "Schließen";
+$MESS["CSPD_CREATE_PRODUCT_IN_DESKTOP_VERSION"] = "Produkt in der Vollversion erstellen";
+$MESS["CSPD_DONE"] = "Fertig";
+$MESS["CSPD_ERROR_EMPTY_FIELD"] = "Dieses Feld ist erforderlich";
+$MESS["CSPD_FIELDS_BARCODE"] = "Strichcode";
+$MESS["CSPD_FIELDS_CURRENCY"] = "Währung";
+$MESS["CSPD_FIELDS_CURRENCY_RUB"] = "RUB";
+$MESS["CSPD_FIELDS_CURRENCY_USD"] = "USD";
+$MESS["CSPD_FIELDS_MEASURES"] = "Maßeinheit";
+$MESS["CSPD_FIELDS_PHOTOS"] = "Produktbilder";
+$MESS["CSPD_FIELDS_PRODUCT_NAME"] = "Produktname";
+$MESS["CSPD_FIELDS_PRODUCT_SECTIONS"] = "An Bereich binden";
+$MESS["CSPD_FIELDS_PURCHASING_PRICE"] = "Einkaufspreis";
+$MESS["CSPD_FIELDS_SELLING_PRICE"] = "Verkaufspreis";
+$MESS["CSPD_FIELDS_STORE"] = "Lager";
+$MESS["CSPD_FIELDS_STORE_TO_AMOUNT"] = "Menge empfangen";
+$MESS["CSPD_MORE_OPPORTUNITIES"] = "Zusätzliche Optionen";
+$MESS["CSPD_OPEN_PRODUCT_IN_DESKTOP_VERSION"] = "Produkt in der Vollversion öffnen";
+$MESS["CSPD_SAVE"] = "Speichern";

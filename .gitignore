@@ -1,5 +1,12 @@
 /.idea
-/bitrix
+#/bitrix
+/bitrix/cache
+/bitrix/backup
+/bitrix/blocks
+/bitrix/images
+/bitrix/managed_cache
+/bitrix/sounds
+/bitrix/modules/*/install
 /upload
 *.log
 *log.txt
